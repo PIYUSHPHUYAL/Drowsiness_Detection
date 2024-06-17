@@ -1,0 +1,3 @@
+Welcome to the Drowsiness Detection project! This project aims to create a simple yet effective Drowsiness Detection application using Python and OpenCV. The app monitors a person's eye movements to detect signs of drowsiness and alerts them with an alarm. This project is concise, requiring fewer lines of code, making it an excellent choice for both beginners and experienced developers interested in computer vision and machine learning. Happy Coding!!!
+
+Note: This project leverages the cv2 and dlib libraries to detect facial landmarks and measure the distances between specific points around the eyes. By analyzing these distances, the application can determine whether a person is drowsy. If drowsiness is detected, an alarm sound is played to alert the individual.
